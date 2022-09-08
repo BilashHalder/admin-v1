@@ -55,9 +55,9 @@ export default function AddAssociate() {
                         </div>
                         <div class="col-md-2">
                         <div class="form-check form-switch pt-4 ps-5">
-                          <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" checked/>
-                             <label class="form-check-label" for="flexSwitchCheckDefault">Status</label>
-                                </div>
+                        <label class="form-check-label" for="flexSwitchCheckDefault">Status</label>
+                          <input class="form-check-input ms-4" type="checkbox" id="flexSwitchCheckDefault"/>
+                        </div>
                         </div>
                       </div>
                       <button type="submit" class="btn btn-primary me-2">Submit</button>
